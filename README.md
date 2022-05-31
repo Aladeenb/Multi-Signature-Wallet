@@ -1,6 +1,6 @@
 # Multi-signature Wallet
 
-This project demonstrates a basic multi-signature wallet.
+A PoC of multi-signature wallet.
 
 > **NOTE:**  The project still in progress.
 
